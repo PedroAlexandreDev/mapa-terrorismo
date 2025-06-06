@@ -20,4 +20,9 @@ Este projeto é uma aplicação web interativa que mostra atentados terroristas 
 
 ```bash
 git clone https://github.com/PedroAlexandreDev/mapa-terrorismo.git
-cd mapa-terrorismo
+cd mapa-terrorism
+```
+
+## link  para Visualização
+
+https://mapa-terrorismo.streamlit.app
